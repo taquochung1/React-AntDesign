@@ -1,0 +1,13 @@
+@layer tailwind-base, antd;
+
+@layer tailwind-base {
+    @tailwind base;
+}
+
+@layer antd {
+    /* Import các CSS của antd tại đây */
+    @import "antd/dist/antd.css";
+}
+
+@tailwind components;
+@tailwind utilities;

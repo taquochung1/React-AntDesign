@@ -1,0 +1,74 @@
+{
+  "products": [
+    {
+      "name": "Product 10 update ",
+      "categoryId": "2",
+      "price": 11.99,
+      "countInStock": 11,
+      "discount": 0.25,
+      "description": "Mô tả sản phẩm 10",
+      "featured": true,
+      "id": "10"
+    },
+    {
+      "name": "Sản phẩm 4 update",
+      "categoryId": "2",
+      "price": "123",
+      "countInStock": 0,
+      "discount": 0,
+      "description": "mô tả sản phẩm 4",
+      "featured": true,
+      "id": "c5fb"
+    },
+    {
+      "name": "Sản phẩm 1 update",
+      "categoryId": "2",
+      "price": "123",
+      "countInStock": 333,
+      "discount": 122,
+      "description": "Mô tả sản phẩm 1",
+      "featured": true,
+      "id": "aa4a"
+    },
+    {
+      "name": "Sản phẩm 2 update",
+      "categoryId": "2",
+      "price": "1233",
+      "countInStock": 1,
+      "discount": 32,
+      "description": "Mô tả sản phẩm 2",
+      "featured": true,
+      "id": "01ac"
+    },
+    {
+      "name": "sản phẩm 5 update",
+      "categoryId": "2",
+      "price": "123",
+      "countInStock": 123,
+      "discount": 123,
+      "description": "mô tả sản phẩm 5",
+      "featured": true,
+      "id": "e829"
+    },
+    {
+      "id": "c561",
+      "name": "sản phảm 6",
+      "categoryId": "2",
+      "price": "123",
+      "countInStock": 12,
+      "discount": 123,
+      "description": "Mô tả sản phẩm 6",
+      "featured": true
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Danh mục 1"
+    },
+    {
+      "id": "2",
+      "name": "Danh mục 2"
+    }
+  ]
+}
